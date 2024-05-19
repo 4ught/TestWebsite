@@ -1,0 +1,13 @@
+/* all pages */
+body {
+  background-color: hsl(0, 0%, 35%);
+}
+#topics {
+  border: 3px solid hsl(0, 0%, 0%);
+  columns: 2;
+}
+.topicsH {
+  text-align: center;
+  text-rendering: ;
+  border-bottom: 3px solid hsl(0, 0%, 0%);
+}
