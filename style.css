@@ -10,12 +10,8 @@ body {
 h1 {
   text-align: center;
 }
-#topics {
-  margin: 0;
-  border: 3px solid hsl(0, 0%, 0%);
-  columns: 2;
-}
-.topicsH {
-  text-align: center;
-  border-bottom: 3px solid hsl(0, 0%, 0%);
+.topics{
+    float: left;
+    width: 49%;
+    border: 3px solid hsl(0, 0%, 0%);
 }
